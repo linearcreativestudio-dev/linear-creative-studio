@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx *)",
+      "WebSearch",
+      "Bash(npm run *)",
+      "Bash(taskkill *)"
+    ]
+  },
+  "$version": 3
+}
